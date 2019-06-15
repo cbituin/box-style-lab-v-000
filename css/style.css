@@ -9,6 +9,7 @@ body, html {
 
 body {
   background-image: url("./images/white-wood.jpg");
+  width: 100%
 }
 
 .container, h1 {
