@@ -9,7 +9,7 @@ body, html {
 
 body {
   background-image: url("./images/white-wood.jpg");
-  width: 100%
+  background-repeat: repeat-x;
 }
 
 .container, h1 {
@@ -64,3 +64,4 @@ h4 {
 .large {
   width: 303%;
 }
+
